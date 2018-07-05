@@ -1,5 +1,5 @@
 'use strict';
-import './estilo.css'
+
 import 'react'
 
 export default props => (
